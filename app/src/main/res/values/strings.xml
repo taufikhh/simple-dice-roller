@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Simple Dice Roller</string>
+    <string name="result">Result</string>
+    <string name="roll">Roll</string>
 </resources>
